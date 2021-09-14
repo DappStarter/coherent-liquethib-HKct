@@ -1,0 +1,19 @@
+{
+    "repository": {},
+    "__outputFolder": null,
+    "blocks": [
+        {
+            "category": "asset_value_tracking",
+            "name": "core-token",
+            "parameters": {
+                "name": "WHEN",
+                "symbol": "WHN",
+                "decimals": "18",
+                "supply": "1000"
+            }
+        }
+    ],
+    "blockchain": "ethereum",
+    "language": "solidity",
+    "framework": "vanilla"
+}

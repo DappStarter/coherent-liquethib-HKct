@@ -1,0 +1,13 @@
+{
+    "name": "Test",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/vanilla": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "WHEN",
+        "/category/asset_value_tracking/core-token/symbol": "WHN",
+        "/category/asset_value_tracking/core-token/decimals": "18",
+        "/category/asset_value_tracking/core-token/supply": "1000"
+    }
+}
